@@ -10,5 +10,5 @@ package fr.insa.monprojet.test_github_g8;
  */
 public class Barre {
     String nom;
-    
+    double x;
 }
